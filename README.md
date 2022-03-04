@@ -35,5 +35,9 @@
 <a href="https://dev.to/tomrytt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tomrytt" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomrytt&show_icons=true&locale=en&layout=compact" alt="tomrytt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomrytt&" alt="tomrytt" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomrytt&show_icons=true&locale=en" alt="tomrytt" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomrytt&label=Profile%20views&color=0e75b6&style=flat" alt="tomrytt" /> </p>
