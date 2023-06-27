@@ -5,9 +5,9 @@
 
 <h3 align="left">🙋‍♂️About Me:</h3>
 <hr>
-- 🌱 I’m currently expending my **knowledge and experience in React.js**
+- 🌱 I’m currently expending my knowledge and experience in React.js
 
-- 👯 I’m looking to collaborate on **React/Vue Projects**
+- 👯 I’m looking to collaborate on React projects
 
 - 📝 I regularly write articles on [Technology](Technology)
 
