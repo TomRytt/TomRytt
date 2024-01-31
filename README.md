@@ -11,8 +11,6 @@
 
 - 📫 How to reach me: **tomofekrytt@gmail.com**
 
-- 📄 My Resume: [https://docs.google.com/document/d/1TE6WRjvgQlT3InjlSh6qt0maEkr-NxKy/edit?usp=sharing&ouid=102941864551331808811&rtpof=true&sd=true](https://docs.google.com/document/d/1TE6WRjvgQlT3InjlSh6qt0maEkr-NxKy/edit?usp=sharing&ouid=102941864551331808811&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I love breweing my own coffee and playing chess**
 
 <h3 align="left">👨‍💻Languages and Tools:</h3>
