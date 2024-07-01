@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <hr>
-<h3 align="center">A Full Stack developer at Qualitest</h3>
+<h3 align="center">A Full Stack developer at Elbit via Qualitest</h3>
 
 
 <h3 align="left">🙋‍♂️About Me:</h3>
